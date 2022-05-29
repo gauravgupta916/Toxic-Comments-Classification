@@ -43,6 +43,7 @@ For preprocessing the data we did the following:
 
 #### Create WordCloud: 
 Useful to show the words which occur most frequently for each category. Warning: Profanity ahead.
+
 ![image](https://raw.githubusercontent.com/gauravgupta916/Toxic-Comments-Classification/master/images/word_cloud.png)
 
 ### TF-IDF for feature extraction

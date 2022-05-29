@@ -26,7 +26,11 @@ Out of all the comments in the training dataset, on counting the number of comme
 ![image](https://raw.githubusercontent.com/gauravgupta916/Toxic-Comments-Classification/master/images/count_of_each_class.jpg)
 
 Plotting the same as a bar-chart:
+
+
 ![image](https://raw.githubusercontent.com/gauravgupta916/Toxic-Comments-Classification/master/images/barChart_count_of_each_class_.png)
+
+
 
 ![image](https://raw.githubusercontent.com/gauravgupta916/Toxic-Comments-Classification/master/images/Percentage_comments_of_all_categories.png)
 
